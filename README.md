@@ -6,6 +6,7 @@ This script provides an interface to interact with the GPT-4 language model usin
 ## Todo
 - [x] Basic retrying gpt_chat functionality for cli 
 - [ ] Add stream=True option for more interactive conversations
+- [ ] Simplify the process for gpt4 chat completion by enabling deployment through `pip install (pkg_name)`
 
 ## Prerequisites
 
