@@ -1,4 +1,4 @@
-# GPT-4 Query
+# ChatGPTUtils
 
 This script provides an interface to interact with the GPT-4 language model using the OpenAI API. You can have a conversation with the model by inputting messages and receiving responses.
 
